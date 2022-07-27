@@ -1,17 +1,25 @@
 The application is run by streamlit (https://streamlit.io/)
 
-anaconda prompt:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-conda create -n myenv python=3.7
+Open anaconda prompt:
 
-conda activate myenv
+$conda create -n myenv python=3.7
 
-conda install scikit-learn==0.23.0
+$conda activate myenv
 
-pip install streamlit
+$conda install scikit-learn==0.23.0
+
+$pip install streamlit
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 Go to the directory where the app is located
-cd app location
+
+$cd app location
 (ex: cd C:\Users\username\Desktop\Laptop Price Estimation\app)
+
 then:
-streamlit run app.py
+$streamlit run app.py
