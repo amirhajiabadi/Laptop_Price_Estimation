@@ -1,9 +1,13 @@
 The application is run by streamlit (https://streamlit.io/)
 
-anaconda prompt:\n
-conda create -n myenv python=3.7n\
+anaconda prompt:
+
+conda create -n myenv python=3.7
+
 conda activate myenv
+
 conda install scikit-learn==0.23.0
+
 pip install streamlit
 
 Go to the directory where the app is located
