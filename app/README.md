@@ -1,4 +1,4 @@
-The application is run by streamlit
+The application is run by streamlit (https://streamlit.io/)
 
 anaconda prompt:
 conda create -n myenv python=3.7
